@@ -5,11 +5,11 @@
 <p align="center">
   <a href='#arquitetura'>Arquitetura de Software </a>|
   <a href='#temas'>Temas abordados </a>|
+  <a href='#tecnologies'>Tecnologia </a>|
 </p>
 
-## <p id='arquitetura'>📚 Proffy </p>
-O Proffy é uma plataforma de estudos on-line, com intuito de conectar alunos e professores com o objetivo de ter aulas on-line.
-Curso - Fundamentos de Arquitetura de Software - Disponibilizado por (https://desenvolvedor.io)
+## <p id='arquitetura'>📚 F.A.S </p>
+Curso - Fundamentos de Arquitetura de Software disponibilizado por (https://desenvolvedor.io)
 
 ## <p id='temas'> ⚙ Temas abordados </p> 
 1. Introdução.
@@ -20,3 +20,8 @@ Curso - Fundamentos de Arquitetura de Software - Disponibilizado por (https://de
 6. Clean Code.
 7. Design Patterns.
 8. Arquitetura de Software.
+
+## <p id='tecnologies'>💻 Tecnologia </p>
+Este projeto foi desenvolvido com a seguinte tecnologia:
+
+- .NET Core 2.2
